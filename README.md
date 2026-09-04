@@ -68,9 +68,9 @@ The goal is to reduce manual screening and help companies identify candidates ba
 
 ---
 
-## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sameeronyx&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sameeronyx&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sameeronyx&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
