@@ -55,7 +55,7 @@ A personal developer portfolio showcasing my projects, skills and learning journ
 🔗 Repository: [sameer-portfolio-2](https://github.com/sameeronyx/sameer-portfolio-2)
 
 ---
-
+## HireVex🤝
 ### 🤖 AI Hiring Assistant — Coming Soon
 
 An AI-powered B2B SaaS concept designed to help HR teams streamline technical hiring.
