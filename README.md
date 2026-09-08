@@ -60,9 +60,9 @@ A personal developer portfolio showcasing my projects, skills and learning journ
 
 An AI-powered B2B SaaS concept designed to help HR teams streamline technical hiring.
 
-Workflow:
+Workflow: 
 
-Resume Screening → AI Technical Interview → Candidate Shortlisting → HR Interview
+Resume Screening → AI Technical Interview → Candidate Shortlisting → send report → HR Interview
 
 The goal is to reduce manual screening and help companies identify candidates based on their actual technical capabilities.
 
