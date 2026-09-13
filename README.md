@@ -52,7 +52,7 @@ Currently focused on strengthening my skills in the MERN stack, exploring AI int
 
 A personal developer portfolio showcasing my projects, skills and learning journey.
 
-🔗 Repository: [sameer-portfolio-2](https://github.com/sameeronyx/sameer-portfolio-2)
+🔗 Portfolio: [sameer-portfolio](https://sameeronyx.github.io/sameer-portfolio-2/)
 
 ---
 ## HireVex🤝
