@@ -8,16 +8,6 @@ Currently focused on strengthening my skills in the MERN stack, exploring AI int
 
 ---
 
-## 🚀 What I'm Currently Working On
-
-- 🌐 Learning and building with the MERN Stack
-- 🤖 Exploring AI, LLMs & AI-powered applications
-- 🧩 Building full-stack projects to improve my development skills
-- 💡 Exploring B2B SaaS & automation ideas
-- 📈 Improving my coding, problem-solving and development skills
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
@@ -67,9 +57,6 @@ Resume Screening → AI Technical Interview → Candidate Shortlisting → send 
 The goal is to reduce manual screening and help companies identify candidates based on their actual technical capabilities.
 
 ---
-
-
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sameeronyx&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
@@ -78,19 +65,8 @@ The goal is to reduce manual screening and help companies identify candidates ba
 
 ---
 
-## 🎯 My Goals
-
-- 🚀 Become a strong full-stack developer
-- 🤖 Build useful AI-powered products
-- 💼 Create and launch my own SaaS products
-- 🌍 Build products used by people globally
-- 📚 Keep learning and shipping consistently
-
----
-
 ## 🤝 Let's Connect
-I'm interested in technology, AI, startups, SaaS and building cool things.
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sameeronyx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@sameeronyx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameer.code07@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mohammad_sameer54
+) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@sameeronyx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameer.code07@gmail.com)
 
 ---
