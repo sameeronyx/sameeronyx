@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mohd Sameer
+# 👋 Hey, I'm MOHD SAMEER
 
 ### 💻 CS Student • Full-Stack Developer • AI Explorer
 
