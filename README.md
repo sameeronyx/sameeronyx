@@ -1,6 +1,6 @@
-# 👋 Hey, I'm MOHD SAMEER
+#  Hey, I'm MOHD SAMEER
 
-### 💻 CS Student • Full-Stack Developer • AI Explorer
+###  CS Student • Full-Stack Developer • AI Explorer
 
 I'm a Computer Science student passionate about building modern web applications, AI-powered products, and SaaS solutions.
 
@@ -36,7 +36,7 @@ Currently focused on strengthening my skills in the MERN stack, exploring AI int
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 🌐 Portfolio
 
@@ -45,8 +45,8 @@ A personal developer portfolio showcasing my projects, skills and learning journ
 🔗 Portfolio: [sameer-portfolio](https://sameeronyx.github.io/sameer-portfolio-2/)
 
 ---
-## HireVex🤝
-### 🤖 AI Hiring Assistant — Coming Soon
+## HireVex
+###  AI Hiring Assistant — Coming Soon
 
 An AI-powered B2B SaaS concept designed to help HR teams streamline technical hiring.
 
