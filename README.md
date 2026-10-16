@@ -8,7 +8,7 @@ Currently focused on strengthening my skills in the MERN stack, exploring AI int
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -38,7 +38,7 @@ Currently focused on strengthening my skills in the MERN stack, exploring AI int
 
 ##  Featured Projects
 
-### 🌐 Portfolio
+###  Portfolio
 
 A personal developer portfolio showcasing my projects, skills and learning journey.
 
@@ -57,15 +57,13 @@ Resume Screening → AI Technical Interview → Candidate Shortlisting → send 
 The goal is to reduce manual screening and help companies identify candidates based on their actual technical capabilities.
 
 ---
-## 📊 GitHub Stats:
+##  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sameeronyx&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sameeronyx&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
 
-## 🤝 Let's Connect
+##  Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mohammad_sameer54
 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@sameeronyx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameer.code07@gmail.com)
 
